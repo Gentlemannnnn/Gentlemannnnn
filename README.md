@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 C#/JavaScript/CSS Lover - OOP <br>🌳 Three.js dev, WebGL <3<br>💻 Passionate about tech and cybersecurity - Pentesting, Ethical Hacking<br> 🚀Check out my projects on security & web<br>🌐 web apps, 📚 code libraries.<br>
+👨‍💻 C#/JavaScript/CSS Lover - OOP <br>🌳 Three.js learner, WebGL <3<br>💻 Passionate about tech and cybersecurity - Pentesting, Ethical Hacking<br> 🚀Check out my projects <br>🌐 web apps, 📚 code libraries.<br>
 
 
 ## 🌐 Socials:
